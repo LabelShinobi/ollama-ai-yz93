@@ -1,4 +1,4 @@
-# 
+# Turbo Ollama thèmes. Avec mémoire contextuelle et autonomie des agents — optimisé pour des performances et une efficacité maximales.
 
 
 
